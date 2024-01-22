@@ -1,5 +1,7 @@
-<p>I Congreso los materiales de la Filología</p>
-<p>Archivos, epistolarios y cultura libresca</p>
+<h1>I Congreso los materiales de la Filología</h1>
+<h2>Archivos, epistolarios y cultura libresca</h2>
+
+<p>Navegación</p>
 
 <p>Bienvenida
 Equipo
