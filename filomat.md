@@ -4,10 +4,15 @@
 <p>Navegación</p>
 
 <p>Bienvenida
+  <br>
 Equipo
+  <br>
 Call for Papers
+  <br>
 Información de interés sobre Valencia
+  <br>
 Redes sociales
+  <br>
 Contacto</p>
 
 <p>Universitat de València, Departament de Filologia Espanyola/ Universidad de Valencia, Departamento de Filología Española</p> <p>2024</p>
