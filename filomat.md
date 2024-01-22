@@ -7,4 +7,4 @@ Información de interés sobre Valencia
 Redes sociales
 Contacto</p>
 
-<p>Universitat de València, 2024</p>
+<p>Universitat de València, Departament de Filologia Espanyola/ Universidad de Valencia, Departamento de Filología Española</p> <p>2024</p>
